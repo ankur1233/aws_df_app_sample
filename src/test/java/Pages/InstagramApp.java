@@ -17,7 +17,7 @@ public InstagramApp(AppiumDriver driver) {
 		super(driver);
 	}
 
-
+//tHIS IS COMMENT
 By userIdLocator = By.id("com.instagram.android:id/login_username");
 
 By pwdLocator = By.id("com.instagram.android:id/login_password");
